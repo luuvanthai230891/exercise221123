@@ -1,0 +1,5 @@
+var scoreMath = 10;
+var scorePhysics = 10;
+var scoreChemistry = 10;
+var scoreAverage = (scoreChemistry + scoreMath + scorePhysics) / 3 ;
+console.log("Average =",(scoreMath + scorePhysics + scoreChemistry) / 3);

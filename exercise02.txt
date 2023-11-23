@@ -1,0 +1,3 @@
+var usd = 1;
+var VND = usa * 23000;
+console.log("1 USD =" , VND , "VND");
